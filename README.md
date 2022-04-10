@@ -6,7 +6,7 @@ Analyze a set of data that contains information for different crowfunding campai
 
 ### Purpose
 
-The purpose of this analysis is to understand the performance of different fundraising campaigns based on their launch date and based on their goal.
+The purpose of this analysis is to understand the performance of different fundraising campaigns based on their launch date and based on their predetermined goal.
 
 ## Analysis and Challenges
 
